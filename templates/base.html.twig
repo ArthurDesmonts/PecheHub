@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Mon site Symfony</title>
-    <meta charset="utf-8">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.2/tailwind.min.css">
+    <!-- Inclure le header -->
+    {% block header %}
+        {% include 'header.html.twig' %}
+    {% endblock %}
 </head>
 <body >
-<!-- Inclure le header -->
-{% block header %}
-    {% include 'header.html.twig' %}
-{% endblock %}
 
 <!-- Contenu spécifique de la page -->
 <div class="content">
@@ -20,5 +18,6 @@
 {% block footer %}
     {% include 'footer.html.twig' %}
 {% endblock %}
+
 </body>
 </html>
