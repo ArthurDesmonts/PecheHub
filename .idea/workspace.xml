@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="956410de-d07b-417e-8135-849f1149048a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/header.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/header.html.twig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index/index.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -212,7 +210,19 @@
       <workItem from="1690063122944" duration="1234000" />
       <workItem from="1690468873051" duration="2000" />
       <workItem from="1690746303360" duration="687000" />
-      <workItem from="1690815400710" duration="992000" />
+      <workItem from="1690815400710" duration="1496000" />
+      <workItem from="1690992137449" duration="1000" />
+      <workItem from="1691156262736" duration="6000" />
+      <workItem from="1691852126689" duration="1000" />
+      <workItem from="1693063321802" duration="2000" />
+      <workItem from="1693153673614" duration="1000" />
+      <workItem from="1693505039028" duration="2000" />
+      <workItem from="1694264877376" duration="1000" />
+      <workItem from="1694512823424" duration="2000" />
+      <workItem from="1694710428991" duration="2000" />
+      <workItem from="1696190068101" duration="1000" />
+      <workItem from="1697745109806" duration="4000" />
+      <workItem from="1699350134904" duration="172000" />
     </task>
     <servers />
   </component>
